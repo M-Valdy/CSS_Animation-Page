@@ -1,0 +1,63 @@
+*, *::before, *::after{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(#343434,#1b1b1b,#000000);
+}
+
+.space {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  color: black;
+  border-radius: 100px;
+}
+
+.earth {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  border: 3px dashed transparent;
+  background: radial-gradient(#0033cc, #0099ff);
+}
+
+.orbit {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  animation: orbit 5s linear infinite;
+}
+
+@keyframes orbit {
+  0% {
+    transform: rotate(0deg) translate(-50%,-50%);
+  }
+  100% {
+    transform: rotate(360deg) translate(-50%, -50%);
+  }
+}
+
+.moon {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  border: 3px dashed transparent;
+  transform: translateX(-50%);
+  border-radius: 50%;
+  background: radial-gradient(#e5e4e2,#dcdcdc);
+}
