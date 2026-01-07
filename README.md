@@ -25,6 +25,16 @@ A semi-planetary model made with HTML and CSS. I didn't import any other piece o
 
 ---
 
+### 3. 🐧 Build a flappy penguin
+
+A cute little penguin made out of CSS that waves hello at you. It was supposed to say I love CSS in the middle but I changed it to say I love you instead. I also decided to add a bunch of other stuff so that it wouldn't feel so empty.
+
+- **Live site**: [View Flappy Penguin](https://m-valdy.github.io/CSS_Animation-Page/flappy_penguin/index.html)
+- **Folder**: `flappy_penguin`
+- **Tools**: HTML5 and CSS
+
+---
+
 ## Deployments
 
 These projects are deployed via **GitHub Pages**.
