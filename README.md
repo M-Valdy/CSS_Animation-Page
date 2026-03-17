@@ -37,9 +37,9 @@ A cute little penguin made out of CSS that waves hello at you. It was supposed t
 
 ### 4. 💼 Personal Portfolio
 
-A personal portfolio for my boyfriend that was made using HTML and CSS. It took a lot more time than usual because I actually deployed this as a website. I'll probably update it when I learn JavaScript, React or another frameword
+A personal portfolio for my boyfriend that was made using HTML and CSS. I did not have the time to fully deploy this as a website like I originally wanted to but I ended up not having enough time for it and I have to move on.
 
-- **Live site**: [View Flappy Penguin](https://m-valdy.github.io/CSS_Animation-Page/personal_portfolio/index.html)
+- **Live site**: [View Personal Portfolio](https://m-valdy.github.io/CSS_Animation-Page/personal_portfolio/index.html)
 - **Folder**: `personal_portfolio`
 - **Tools**: HTML5 and CSS
 
