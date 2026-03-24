@@ -1,7 +1,9 @@
 # CSS_Animation-Page
 
 This repository contains all of the personal projects that I did in FreeCodeCamp in HTML and CSS for the animation modules.
-The repository of other CSS Projects: [View Repository](https://m-valdy.github.io/CSS_Recipe-Page)
+The repository of other [CSS projects](https://m-valdy.github.io/CSS_Recipe-Page)
+
+The repository of my [JavaScript projects](https://m-valdy.github.io/JS_Recipe-Page)
 
 ## Projects
 
